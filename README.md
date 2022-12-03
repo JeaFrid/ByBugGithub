@@ -37,9 +37,7 @@ _ByBug | Developed by JeaFriday, this extension allows you to work with Github t
 
 *Retrieves the Version Name in the Versions.txt file on Github.*
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/DHqdeB8Sjn8" title="GITHUB ILE KODULAR UYGULAMASINDA SÜRÜM KONTROLÜ YAPARAK UYGULAMA GÜNCELLEME!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+[Tutorial YouTube Videos](https://youtu.be/DHqdeB8Sjn8)
 
 
 
